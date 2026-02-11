@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on improving my Backend skills
 - 🌱 I’m currently learning Data Structures & Spring Boot
 - 💬 Ask me about Java, Spring Boot, REST APIs, React
-- 📫 How to reach me: your-itrivedi230@gmail.com
+- 📫 How to reach me: itrivedi230@gmail.com
 - ⚡ Passionate about building scalable backend systems
 
 ---
